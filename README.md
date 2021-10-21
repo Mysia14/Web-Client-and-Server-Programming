@@ -14,4 +14,4 @@
 
  - Jessica Gust
  - Icah Vega
- - Images from (https://pixabay.com/users/kordi_vahle-4934524/) by [Khorfi_vahle]
+ - Images from (https://pixabay.com/users/kordi_vahle-4934524/) by {Khorfi_vahle}

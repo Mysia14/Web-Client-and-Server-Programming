@@ -12,5 +12,5 @@
 
 #### Atributions:
 
- - Jessica Gust and Icah Vega: Help me to figure out some bugs and Jessica help me to understand better how "forEach" works.
+ - Jessica Gust and Icah Vega: They've helped me to figure out some bugs and Jessica help me to understand better how "forEach" works.
  - Images from (https://pixabay.com/users/kordi_vahle-4934524/) by Khorfi_vahle.

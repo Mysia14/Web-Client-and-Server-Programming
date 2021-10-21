@@ -5,8 +5,8 @@
 
 ### Links to:
 
-* GH repo;
-* GH Pages site:
+* GH repo: https://github.com/Mysia14/cpnt262-a2
+* GH Page site: https://mysia14.github.io/cpnt262-a2/
 
 
 
@@ -14,4 +14,4 @@
 
  - Jessica Gust
  - Icah Vega
- - Images from (https://pixabay.com/users/kordi_vahle-4934524/) by (Khorfi_vahle)
+ - Images from (https://pixabay.com/users/kordi_vahle-4934524/) by Khorfi_vahle.

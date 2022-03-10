@@ -1,4 +1,4 @@
-# Web Client and Server Programming - cpnt262-a2.
+# Web Client and Server Programming - cpnt262-a2. (For Each Method)
 
 ## Autthor: Mysia Santana
 

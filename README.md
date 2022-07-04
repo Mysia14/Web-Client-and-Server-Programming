@@ -6,7 +6,7 @@
 ### Links to:
 
 * GH repo: https://github.com/Mysia14/cpnt262-a2
-* GH Page site: https://mysia14.github.io/cpnt262-a2/
+* GH Page site: https://mysia14.github.io/Web-Client-and-Server-Programming/
 
 
 
